@@ -1,1 +1,1 @@
-vless://699e037e-020a-86dc-fa72-5e6be2c69871@uk7.flowers-shop.buzz:443?security=reality&type=tcp&flow=xtls-rprx-vision&sni=uk.flowers-shop.buzz&fp=chrome&pbk=APIjsI6Nv_0IjKESQwFCj10rFOz1tmPclw4dtlVqeT0#%F0%9F%87%AC%F0%9F%87%A7%20London
+
